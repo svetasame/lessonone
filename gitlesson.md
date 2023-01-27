@@ -16,4 +16,8 @@
 
 **git log** - get story of commits
 
-**git checkout** - allow us switch commits
+**git checkout** - allow us switch beetween commits
+
+**git checkout master** - get back to main tree
+
+**git diff** - show differences 
