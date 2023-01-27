@@ -13,3 +13,7 @@
 - git commit -m "message" - allow us to avoid git console and type message inside terminal
 
 - git commit -am "message" the same as flag -m allow us avoid git add
+
+**git log** - get story of commits
+
+**git checkout** - allow us switch commits
