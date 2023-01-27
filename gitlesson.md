@@ -21,3 +21,11 @@
 **git checkout master** - get back to main tree
 
 **git diff** - show differences 
+
+1
+
+1
+
+1
+пше
+8889
